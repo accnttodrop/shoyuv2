@@ -1,0 +1,22 @@
+{
+  "name": "shoyuv2",
+  "version": "0.0.0",
+  "description": "Again Shouyu",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine-node": "~1.14.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/accnttodrop/shoyuv2.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/accnttodrop/shoyuv2/issues"
+  }
+}
